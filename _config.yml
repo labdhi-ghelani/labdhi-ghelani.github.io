@@ -8,12 +8,12 @@ description:  Resume
 content: Hi, I am a Data Analysis Enthusiast with a passion for science and technology aspiring to work in a challenging environment to bring to life the stories underlying seemingly unintelligible data.
 # Add your social links
 social:
-  - platform: github
-    url: https://github.com/brianmaierjr
-  - platform: linkedin
-    url: https://facebook.com/brianmaierjr
+  - platform: Github
+    url: https://github.com/labdhi-ghelani
+  - platform: Linkedin
+    url: https://www.linkedin.com/in/labdhi-ghelani/
   - platform: Tableau
-    url: https://twitter.com/brianmaierjr
+    url: https://public.tableau.com/profile/labdhi.ghelani#!/
   - platform: RPubs
     url: brianmaierjr
 
