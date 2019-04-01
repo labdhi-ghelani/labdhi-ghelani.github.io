@@ -8,7 +8,7 @@ description:  Resume
 content: Hi, I am a Data Analysis Enthusiast from Northeastern University with a passion for science and technology aspiring to work in a challenging environment to bring to life the stories underlying seemingly unintelligible data.
 # Add your social links
 social:
-- platform: Resume
+  - platform: Resume
     url: https://drive.google.com/file/d/1PX9j-puULZ1diOIPMVeRPCXol8BK1jQ5/view?usp=sharing
   - platform: Github
     url: https://github.com/labdhi-ghelani
