@@ -1,6 +1,6 @@
 ![Uni Jekyll Theme]
 
-# Uni – A one-page Jekyll theme
+# Labdhi Ghelani - Resume
 
 [View Half Demo](http://brianmaierjr.com/uni/) | [View Full Demo](http://brianmaierjr.com/uni/full) | [View Card Demo](http://brianmaierjr.com/uni/card)
 
