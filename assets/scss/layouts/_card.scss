@@ -5,7 +5,7 @@
   background-color: #0f0f0f;
   background-size: cover;
   background-position: center;
-  @include responsivebackground("download.jpg");
+  @include responsivebackground("black-screen-07.jpg");
 
   .pageTitle {
     color: $primary-color;
