@@ -9,13 +9,15 @@ content: Hi, I am a Data Analysis Enthusiast from Northeastern University with a
 # Add your social links
 social:
   - platform: Resume
-    url: https://drive.google.com/drive/folders/1pYb4dYGuTjI_anv1F28PlRyD4e1GXimN?usp=sharing
-  - platform: Github
-    url: https://github.com/labdhi-ghelani
+    url: https://drive.google.com/file/d/1B7EhdgKBYZcPdUG8MneyLnFqyxl7ODhn/view?usp=sharing
   - platform: Linkedin
     url: https://www.linkedin.com/in/labdhi-ghelani/
+  - platform: Github
+    url: https://github.com/labdhi-ghelani
   - platform: Tableau
     url: https://public.tableau.com/profile/labdhi.ghelani#!/
+  - platform: RPubs
+    url: https://rpubs.com/labdhi-ghelani
   - platform: RPubs
     url: https://rpubs.com/labdhi-ghelani
 
