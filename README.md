@@ -1,4 +1,3 @@
-![Uni Jekyll Theme]
 
 # Labdhi Ghelani - Resume
 
@@ -88,7 +87,7 @@ For example, the layout below is using the `full` layout. The other options avai
 ```
 ---
 layout: full
-title: Uni – A one-page Jekyll theme
+title: 
 ---
 ```
 
